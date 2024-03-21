@@ -1,0 +1,133 @@
+body{
+    margin:0;
+    padding: 0;
+    text-align:center;
+   
+   
+        font-family: "Arbutus Slab", serif;
+        font-weight: 400;
+        font-style: normal;
+        background-color: #EAF6F6;
+      
+      
+     
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+p{
+    color: #40514E;
+    line-height: 2;
+}
+
+body{
+    margin:0;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+  
+   
+}
+h2{
+    font-size:2.5rem;
+    color:#66BFBF;
+    padding: 70px 0 10px 0;
+}
+h3{
+    color: #11999E;
+    
+}
+a{
+    color:#11999E;
+    text-decoration: none;
+    margin: 50px 20px;
+}
+a:hover{
+    color: #40514E;
+}
+
+.footer-link{
+    color: #11999E;
+}
+
+.img1{
+    width: 25%;
+    float: left;
+    margin-right:30px;
+}
+
+.img2{
+    width: 25%;
+    float: right;
+    margin-right:30px;
+}
+
+/* .wrap{
+    clear:left;
+ }
+
+.program{
+    font-weight: normal;
+}*/
+span{
+    text-decoration: underline;
+} 
+
+.top-cloud{
+    position: relative;
+    left:300px;
+}
+
+.bottom-cloud{
+    position:absolute;
+   
+    top: 200px;
+    left: 180px
+}
+
+hr{
+    border: none;
+    border-top: 5px dotted #EAF6F6; /* Adjust color as needed */
+    width: 5%;
+    height: 70%;
+    margin: 0 auto;
+}
+.bottom-container{
+    color:#11999E;
+    background-color: #66BFBF;
+height: 150px;
+margin-top: 30px;
+padding: 50px;
+}
+
+.btn {
+        box-shadow: 0px 0px 0px 2px #4e78ed;
+        background:linear-gradient(to bottom, #11999E 5%, #11999E 100%);
+        background-color:#7892c2;
+        border-radius:10px;
+        border:1px solid #11999E;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:19px;
+        padding:12px 37px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #283966;
+    }
+    .btn:hover {
+        background:linear-gradient(to bottom, #EAF6F6 5%, #EAF6F6 100%);
+        background-color:#11999E;
+    }
+    .copyright{
+        color: #EAF6F6;
+        padding-top: 90px;
+    }
+  
+            
